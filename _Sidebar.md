@@ -20,5 +20,7 @@
 
 - [craft.analytics](craft.analytics)
 - [craft.analytics.api](craft.analytics.api)
+
+### Guides
 - [Requesting Analytics API](requesting-analytics-api)
 
