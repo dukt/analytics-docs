@@ -3,12 +3,9 @@
 - [Introduction](Home)
 - [Requirements](requirements)
 - [Installation](installation)
+- [Connect to Google Analytics](connect-to-google-analytics)
 - [Configuration](configuration)
 - [License](license)
-
-### Usage
-- [Connect to Google Analytics](connect-to-google-analytics)
-- [Requesting Analytics API](requesting-analytics-api)
 
 ### Widgets
 
@@ -23,4 +20,5 @@
 
 - [craft.analytics](craft.analytics)
 - [craft.analytics.api](craft.analytics.api)
+- [Requesting Analytics API](requesting-analytics-api)
 
