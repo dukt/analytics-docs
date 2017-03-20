@@ -16,7 +16,7 @@
 
 - [Report Field](report-field)
 
-### Templating
+### Twig
 
 - [craft.analytics](craft.analytics)
 - [craft.analytics.api](craft.analytics.api)
