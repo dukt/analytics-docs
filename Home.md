@@ -1,0 +1,1 @@
+# Analytics plugin for Craft CMS
