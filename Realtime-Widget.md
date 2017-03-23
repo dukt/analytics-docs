@@ -1,3 +1,5 @@
+## The Widget
+
 The Realtime widget shows the currently active users on your website.
 
 ## Configuration
