@@ -3,7 +3,6 @@
 - [Introduction](Home)
 - [Requirements](requirements)
 - [Installation](installation)
-- [Connect to Google Analytics](connect-to-google-analytics)
 - [Configuration](configuration)
 - [License](license)
 
