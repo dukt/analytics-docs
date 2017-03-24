@@ -22,6 +22,10 @@ To install the plugin, follow these instructions.
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Analytics.
 
+## Setup
+
+Go to Settings → Plugins → Analytics and follow the instructions to connect to Google Analytics.
+
 ## Learn more
 
 - [Plugin Overview](https://dukt.net/analytics)
