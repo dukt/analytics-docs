@@ -1,1 +1,3 @@
-In progress…
+## The Widget
+
+## Configuration
