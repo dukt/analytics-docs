@@ -68,6 +68,17 @@ Apply filters to requests sent to the Google Analytics Core Reporting API.
 	'filters' => [
 		'ga:hostname==sub.domain.com'
 	]
+
+## Widgets
+
+### Realtime Widget
+
+### Report Widget
+
+## Fields
+
+### Report Field
+
 ## Learn more
 
 - [Plugin Overview](https://dukt.net/analytics)
