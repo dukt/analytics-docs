@@ -73,6 +73,12 @@ Apply filters to requests sent to the Google Analytics Core Reporting API.
 
 ### Realtime Widget
 
+The Realtime widget shows the currently active users on your website.
+
+You can enable real-time reports in CP → Settings → Analytics.
+
+Please note that the Realtime widget will not show up in the dashboard until the Realtime option is enabled in Analytics' settings.
+
 ### Report Widget
 
 ## Fields
