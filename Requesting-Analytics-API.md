@@ -1,6 +1,6 @@
 ## Request
 
-[`craft.analytics.api`](craft.analytics.api) lets you request Google Analytics' API from your templates. 
+Use [`craft.analytics.api`](craft.analytics.api) to request Google Analytics' API from your templates. 
 It returns an `Analytics_RequestCriteriaModel` object which is used to define the criteria and options of the request.
 
 Most the of [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) request parameters are supported.
