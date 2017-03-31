@@ -1,4 +1,6 @@
-### Getting Started
+# Analytics Documentation
+
+## Getting Started
 
 - [Introduction](en/introduction.md)
 - [Requirements](en/requirements.md)
@@ -6,20 +8,20 @@
 - [Configuration](en/configuration.md)
 - [License](en/license.md)
 
-### Widgets
+## Widgets
 
 - [Realtime Widget](en/realtime-widget.md)
 - [Report Widget](en/report-widget.md)
 
-### Fields
+## Fields
 
 - [Report Field](en/report-field.md)
 
-### Twig
+## Twig
 
 - [craft.analytics](en/craft.analytics.md)
 - [craft.analytics.api](en/craft.analytics.api.md)
 
-### Guides
+## Guides
 - [Requesting Analytics API](en/requesting-analytics-api.md)
 
