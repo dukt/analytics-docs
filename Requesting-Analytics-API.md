@@ -1,6 +1,6 @@
 ## Request
 
-[`{entry:1631:title}`]({entry:1631:url}) lets you request Google Analytics' API from your templates. 
+[`craft.analytics.api`](craft.analytics.api) lets you request Google Analytics' API from your templates. 
 It returns a {entry:1632:link} object which is used to define the criteria and options of the request.
 
 Most the of [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) request parameters are supported.
