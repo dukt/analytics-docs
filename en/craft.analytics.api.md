@@ -1,3 +1,5 @@
+# craft.analytics.api
+
 You can access Google Analytics' [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) from your templates via craft.analytics.api. It returns an `Analytics_RequestCriteriaModel` object.
 
     {% set response = craft.analytics.api({

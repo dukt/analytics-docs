@@ -1,3 +1,5 @@
+# License
+
 ## Craft Store License Transfert
 
 Craft plugins licenses purchased on Dukt.net will be transfered to Craft official plugin Store when it's ready to roll out.

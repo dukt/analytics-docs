@@ -1,3 +1,5 @@
+# Report Widget
+
 ## The Widget
 
 The Analytics widget allows you to explore your Google Analytics statistics.

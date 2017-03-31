@@ -1,3 +1,5 @@
+# craft.analytics
+
 ## api(attributes)
 
 This method lets you perform any request on Google Analytics Core Reporting API.

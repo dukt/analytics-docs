@@ -1,3 +1,5 @@
+# Requesting Google Analytics’ API
+
 ## Request
 
 Use [`craft.analytics.api`](craft.analytics.api) to request Google Analytics' API from your templates. 
