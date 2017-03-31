@@ -2,4 +2,4 @@
 
 This method lets you perform any request on Google Analytics Core Reporting API.
 
-Read {entry:1050:link} to learn more.
+Read [Requesting Google Analytics API](requesting-analytics-api) to learn more.
