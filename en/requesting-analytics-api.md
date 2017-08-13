@@ -2,7 +2,7 @@
 
 ## Request
 
-Use [`craft.analytics.api`](craft.analytics.api) to request [Google Analytics Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v4/) from your templates. 
+Use [`craft.analytics.api`](craft.analytics.api.md) to request [Google Analytics Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v4/) from your templates. 
 It returns an `ReportRequestCriteria` object which is used to define the criteria and options of the request.
     
     {% set response = craft.analytics.api({
