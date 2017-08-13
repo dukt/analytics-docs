@@ -1,6 +1,6 @@
 # craft.analytics.api
 
-You can access the [Google Analytics Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) from your templates via craft.analytics.api. It returns an `ReportRequestCriteria` object.
+You can access the [Google Analytics Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) from your templates via `craft.analytics.api`. It returns an `ReportRequestCriteria` object.
 
     {% set response = craft.analytics.api({
         viewId: 1,
