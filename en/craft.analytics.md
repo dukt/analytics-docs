@@ -2,6 +2,6 @@
 
 ## api(attributes)
 
-This method lets you perform any request on Google Analytics Core Reporting API.
+This method lets you request the Google Analytics Core Reporting API.
 
 Read [Requesting Google Analytics API](requesting-analytics-api) to learn more.
