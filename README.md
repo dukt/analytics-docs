@@ -6,7 +6,6 @@
 - [Requirements](en/requirements.md)
 - [Installation](en/installation.md)
 - [Configuration](en/configuration.md)
-- [License](en/license.md)
 
 ## Widgets
 
