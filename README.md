@@ -1,4 +1,4 @@
-# Analytics Documentation
+# Analytics 4 Documentation
 
 ## Getting Started
 
