@@ -23,4 +23,4 @@
 
 ## Guides
 - [Requesting Analytics API](en/requesting-analytics-api.md)
-
+- [Tracking](en/tracking.md)
