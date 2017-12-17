@@ -5,7 +5,7 @@
 The Analytics Report field displays statistics base on the URL of the entry the field belongs to.
 It's worth noting that the entry needs to be saved in order for the chart to start showing data.
 
-{asset:1045:img}
+<img src="assets/analytics-report-field-type.png" alt="Analytics Report Field.">
 
 ## Output
 

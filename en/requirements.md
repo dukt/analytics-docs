@@ -9,7 +9,7 @@ The Analytics plugin has the [same requirements as Craft](https://craftcms.com/d
 ## Craft Requirements
 
 - Craft 2.5+
-- {entry:4:link} plugin
+- [OAuth](https://github.com/dukt/oauth) plugin
 
 ## CP Browser Requirements
 

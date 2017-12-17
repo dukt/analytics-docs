@@ -11,7 +11,7 @@ This page displays the informations that you need to create a Google application
 - **Web Origin**
 - **Redirect URI**
 
-{asset:2197:img}
+<img src="assets/connect-google-analytics-1.png" alt="Connect to Google Analytics, step 1.">
 
 ### Create a new project
 
@@ -19,21 +19,21 @@ Go to [Google API manangement console](https://code.google.com/apis/console/) an
 
 Give it a name, an ID, and click save.
 
-{asset:2198:img}
+<img src="assets/connect-google-analytics-2.png" alt="Connect to Google Analytics, step 2.">
 
 ## Enable Analytics API
 
 Enter the project, go to `API Manager > Library` and search for `analytics`.
 
-{asset:2199:img}
+<img src="assets/connect-google-analytics-3.png" alt="Connect to Google Analytics, step 3.">
 
 In the results, click on `Analytics API`:
 
-{asset:2200:img}
+<img src="assets/connect-google-analytics-4.png" alt="Connect to Google Analytics, step 4.">
 
 And enable this API.
 
-{asset:2201:img}
+<img src="assets/connect-google-analytics-5.png" alt="Connect to Google Analytics, step 5.">
 
 ## Consent Screen
 
@@ -41,13 +41,13 @@ Go to `API Manager > Credentials > OAuth Consent Screen`.
 
 Give your product a name in the `Product name` field.
 
-{asset:2202:img}
+<img src="assets/connect-google-analytics-6.png" alt="Connect to Google Analytics, step 6.">
 
 ## Create a new OAuth client ID
 
 Now move on to `API Manager > Credentials > Credentials` and create a new `OAuth client ID` credential:
 
-{asset:2203:img}
+<img src="assets/connect-google-analytics-7.png" alt="Connect to Google Analytics, step 7.">
 
 Set up the OAuth client with the following settings:
 
@@ -58,15 +58,15 @@ Set up the OAuth client with the following settings:
 
 You can find your origin and redirect URIs in **Craft CP / Settings / Plugins / OAuth / Google**.
 
-{asset:2204:img}
+<img src="assets/connect-google-analytics-8.png" alt="Connect to Google Analytics, step 8.">
 
 Once you are done save the project and client ID & secret are generated:
 
-{asset:2205:img}
+<img src="assets/connect-google-analytics-9.png" alt="Connect to Google Analytics, step 9.">
 
 Copy them back to Craft OAuth settings in **Craft CP / Settings / Plugins / OAuth / Google**:
 
-{asset:2208:img}
+<img src="assets/connect-google-analytics-10.png" alt="Connect to Google Analytics, step 10.">
 
 
 ## Setup Analytics plugin

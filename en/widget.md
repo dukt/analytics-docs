@@ -15,4 +15,4 @@ The Analytics widget allows you to explore your Google Analytics statistics.
 
 You can enable real-time reports in **Analytics plugin preferences**.
 
-Learn more about [enabling real-time]({entry:435:url}#using-real-time).
+Learn more about [enabling real-time](connect-google-analytics.md#using-real-time).

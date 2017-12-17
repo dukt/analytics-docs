@@ -1,6 +1,6 @@
 # craft.analytics.api
 
-You can access Google Analytics' [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) from your templates via craft.analytics.api. It returns an {entry:1632:link} object.
+You can access Google Analytics' [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v3/reference) from your templates via craft.analytics.api. It returns an [Analytics_RequestCriteriaModel](analytics-requestcriteriamodel.md) object.
 
     {% set response = craft.analytics.api({
         startDate: date('-1 year')|date("Y-m-d"),
