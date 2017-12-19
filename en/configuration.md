@@ -12,20 +12,20 @@ The value should be set as a [PHP date interval](http://www.php.net/manual/en/da
 
 ## enableCache
 
-Whether request to APIs should be cached or not
+Whether request to APIs should be cached or not.
 
     'enableCache' => true,
 
 ## enableFieldtype
 
-Whether Analytics fieldtype is enabled or not
+Whether Analytics fieldtype is enabled or not.
 
     'enableFieldtype' => true,
 
 
 ## enableWidgets
 
-Whether Analytics dashboard widgets are enabled or disabled
+Whether Analytics dashboard widgets are enabled or disabled.
 
     'enableWidgets' => true,
 
@@ -51,6 +51,6 @@ The Google API application’s OAuth client Secret.
 
 ## realtimeRefreshInterval
 
-Interval at which the realtime widget should refresh its data (in seconds)
+Interval at which the realtime widget should refresh its data (in seconds).
 
     'realtimeRefreshInterval' => 15,
