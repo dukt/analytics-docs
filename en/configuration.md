@@ -37,6 +37,12 @@ Apply filters to requests sent to the Google Analytics Core Reporting API.
 		'ga:hostname==sub.domain.com',
 	]
 
+## mapsApiKey
+
+Google Maps API key, used by geo charts.
+
+    'mapsApiKey' => 'xxxxxxxxxxxxxxxxxxxxxxxx'
+
 ## oauthClientId
 
 The Google API application’s OAuth client ID.
