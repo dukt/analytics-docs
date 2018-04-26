@@ -16,4 +16,4 @@ The Analytics widget allows you to explore your Google Analytics statistics.
 The geo chart will require a Google Maps API key to access geocoding features. 
 
 1. [Get a Google Maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key).
-2. Copy your Google Maps API key to your `[mapsApiKey](configuration.md#mapsApiKey)` config.
+2. Copy your Google Maps API key to your [mapsApiKey](configuration.md#mapsApiKey) config.
