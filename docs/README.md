@@ -1,3 +1,3 @@
-# Analytics plugin for Craft CMS
+# Introduction
 
 Customizable statistics widgets and entry tracking for Craft & Google Analytics.

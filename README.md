@@ -2,25 +2,25 @@
 
 ## Getting Started
 
-- [Introduction](en/introduction.md)
-- [Requirements](en/requirements.md)
-- [Installation](en/installation.md)
-- [Configuration](en/configuration.md)
+- [Introduction](docs/README.md)
+- [Requirements](docs/requirements.md)
+- [Installation](docs/installation.md)
+- [Configuration](docs/configuration.md)
 
 ## Widgets
 
-- [Realtime Widget](en/realtime-widget.md)
-- [Report Widget](en/report-widget.md)
+- [Realtime Widget](docs/realtime-widget.md)
+- [Report Widget](docs/report-widget.md)
 
 ## Fields
 
-- [Report Field](en/report-field.md)
+- [Report Field](docs/report-field.md)
 
 ## Twig
 
-- [craft.analytics](en/craft.analytics.md)
-- [craft.analytics.api](en/craft.analytics.api.md)
+- [craft.analytics](docs/craft.analytics.md)
+- [craft.analytics.api](docs/craft.analytics.api.md)
 
 ## Guides
-- [Requesting Analytics API](en/requesting-analytics-api.md)
-- [Tracking](en/tracking.md)
+- [Requesting Analytics API](docs/requesting-analytics-api.md)
+- [Tracking](docs/tracking.md)
