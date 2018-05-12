@@ -16,11 +16,6 @@
 
 - [Report Field](docs/report-field.md)
 
-## Twig
-
-- [craft.analytics](docs/craft.analytics.md)
-- [craft.analytics.api](docs/craft.analytics.api.md)
-
-## Guides
+## Advanced Topics
 - [Requesting Analytics API](docs/requesting-analytics-api.md)
 - [Tracking](docs/tracking.md)
