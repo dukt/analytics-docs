@@ -17,6 +17,6 @@ This plugin can be installed either through the Plugin Store or through Composer
 
         composer require dukt/analytics
 
-3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Analytics.
+3. In the Control Panel, go to **Settings → Plugins** and click the “Install” button for Analytics.
 
 4. Go to **Settings → Analytics** and follow the instructions to connect to Google Analytics.
