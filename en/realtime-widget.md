@@ -4,8 +4,6 @@
 
 The Realtime widget shows the currently active users on your website.
 
-![Analytics Realtime Widget](https://dukt.net/uploads/plugin-screenshots/analytics/3.0/analytics-realtime.gif)
-
 ## Configuration
 
 You can enable real-time reports in CP → Settings → Analytics.
