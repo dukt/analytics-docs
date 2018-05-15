@@ -1,10 +1,8 @@
 # Configuration
 
-## Configuration Settings
-
 Analytics supports several configuration settings. You can override their values in your `config/analytics.php` file.
 
-### cacheDuration
+## cacheDuration
 
 The amount of time cache should last.
 
@@ -12,26 +10,26 @@ The value should be set as a [PHP date interval](http://www.php.net/manual/en/da
 
     'cacheDuration' => 'PT10M',
 
-### enableCache
+## enableCache
 
 Whether request to APIs should be cached or not.
 
     'enableCache' => true,
 
-### enableFieldtype
+## enableFieldtype
 
 Whether Analytics fieldtype is enabled or not.
 
     'enableFieldtype' => true,
 
 
-### enableWidgets
+## enableWidgets
 
 Whether Analytics dashboard widgets are enabled or disabled.
 
     'enableWidgets' => true,
 
-### filters
+## filters
 
 Apply filters to requests sent to the Google Analytics Core Reporting API.
 
@@ -39,25 +37,25 @@ Apply filters to requests sent to the Google Analytics Core Reporting API.
 		'ga:hostname==sub.domain.com',
 	]
 
-### mapsApiKey
+## mapsApiKey
 
 Google Maps API key, used by geo charts.
 
     'mapsApiKey' => 'xxxxxxxxxxxxxxxxxxxxxxxx'
 
-### oauthClientId
+## oauthClientId
 
 The Google API application’s OAuth client ID.
 
     'oauthClientId' => '000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com',
 
-### oauthClientSecret
+## oauthClientSecret
 
 The Google API application’s OAuth client Secret.
 
     'oauthClientSecret' => 'xxxxxxxxxxxxxxxxxxxxxxxx',
 
-### realtimeRefreshInterval
+## realtimeRefreshInterval
 
 Interval at which the realtime widget should refresh its data (in seconds).
 
