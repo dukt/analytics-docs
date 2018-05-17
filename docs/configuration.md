@@ -12,34 +12,31 @@ The value should be set as a [PHP date interval](http://www.php.net/manual/en/da
 
 ## enableCache
 
-Whether request to APIs should be cached or not.
+Whether requests to APIs should be cached or not.
 
     'enableCache' => true,
 
 ## enableFieldtype
 
-Whether Analytics fieldtype is enabled or not.
+Whether the Report field type is enabled or not.
 
     'enableFieldtype' => true,
 
+## enableRealtime
+
+Whether the Realtime widget is enabled or not.
+
+    'enableRealtime' => false,
 
 ## enableWidgets
 
-Whether Analytics dashboard widgets are enabled or disabled.
+Whether Analytics widgets are enabled or disabled.
 
     'enableWidgets' => true,
 
-## filters
-
-Apply filters to requests sent to the Google Analytics Core Reporting API.
-
-	'filters' => [
-		'ga:hostname==sub.domain.com',
-	]
-
 ## mapsApiKey
 
-Google Maps API key, used by geo charts.
+Google Maps API key. Used by the Geo chart.
 
     'mapsApiKey' => 'xxxxxxxxxxxxxxxxxxxxxxxx'
 
@@ -54,6 +51,12 @@ The Google API application’s OAuth client ID.
 The Google API application’s OAuth client Secret.
 
     'oauthClientSecret' => 'xxxxxxxxxxxxxxxxxxxxxxxx',
+
+## oauthProviderOptions
+
+OAuth provider options.
+
+    'oauthProviderOptions' => [],
 
 ## realtimeRefreshInterval
 
