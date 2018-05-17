@@ -10,13 +10,11 @@ This plugin can be installed either through the Plugin Store or through Composer
 ## Composer
 
 1. Open your terminal and go to your Craft project:
-
 ```bash
 cd /path/to/project
 ```
 
 2. Install the plugin via Composer:
-
 ```bash
 composer require dukt/analytics
 ```
