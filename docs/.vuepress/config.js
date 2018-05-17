@@ -2,6 +2,7 @@ module.exports = {
     title: 'Analytics 4 Documentation',
     description: 'Analytics 4 Documentation',
     base: '/analytics/v4/',
+    ga: 'UA-1547168-34',
     themeConfig: {
         nav: [
             { text: 'Analytics', link: '/'},
