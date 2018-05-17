@@ -11,11 +11,15 @@ This plugin can be installed either through the Plugin Store or through Composer
 
 1. Open your terminal and go to your Craft project:
 
-        cd /path/to/project
+```bash
+cd /path/to/project
+```
 
 2. Install the plugin via Composer:
 
-        composer require dukt/analytics
+```bash
+composer require dukt/analytics
+```
 
 3. In the Control Panel, go to **Settings → Plugins** and click the “Install” button for Analytics.
 

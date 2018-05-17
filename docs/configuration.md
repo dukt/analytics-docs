@@ -2,64 +2,88 @@
 
 Analytics supports several configuration settings. You can override their values in your `config/analytics.php` file.
 
+```php
+return [
+    'cacheDuration' => 'PT30M', 
+];
+```
+
 ## cacheDuration
 
-The amount of time cache should last.
+The amount of time cache should last. The value should be set as a [PHP date interval](http://www.php.net/manual/en/dateinterval.construct.php).
 
-The value should be set as a [PHP date interval](http://www.php.net/manual/en/dateinterval.construct.php).
-
-    'cacheDuration' => 'PT10M',
+```php
+'cacheDuration' => 'PT10M',
+```
 
 ## enableCache
 
 Whether requests to APIs should be cached or not.
 
-    'enableCache' => true,
+```php
+'enableCache' => true,
+```
 
 ## enableFieldtype
 
 Whether the Report field type is enabled or not.
 
-    'enableFieldtype' => true,
+```php
+'enableFieldtype' => true,
+```
 
 ## enableRealtime
 
 Whether the Realtime widget is enabled or not.
 
-    'enableRealtime' => false,
+```php
+'enableRealtime' => false,
+```
 
 ## enableWidgets
 
 Whether Analytics widgets are enabled or disabled.
 
-    'enableWidgets' => true,
+```php
+'enableWidgets' => true,
+```
 
 ## mapsApiKey
 
 Google Maps API key. Used by the Geo chart.
 
-    'mapsApiKey' => 'xxxxxxxxxxxxxxxxxxxxxxxx'
+```php
+'mapsApiKey' => 'xxxxxxxxxxxxxxxxxxxxxxxx'
+```
 
 ## oauthClientId
 
 The Google API application’s OAuth client ID.
 
-    'oauthClientId' => '000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com',
+```php
+'oauthClientId' => '000000000000-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com',
+```
 
 ## oauthClientSecret
 
 The Google API application’s OAuth client Secret.
 
-    'oauthClientSecret' => 'xxxxxxxxxxxxxxxxxxxxxxxx',
+```php
+'oauthClientSecret' => 'xxxxxxxxxxxxxxxxxxxxxxxx',
+```
 
 ## oauthProviderOptions
 
 OAuth provider options.
 
-    'oauthProviderOptions' => [],
+```php
+'oauthProviderOptions' => [],
+```
 
 ## realtimeRefreshInterval
 
 Interval at which the realtime widget should refresh its data (in seconds).
 
-    'realtimeRefreshInterval' => 60,
+```php
+'realtimeRefreshInterval' => 60,
+```

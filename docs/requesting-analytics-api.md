@@ -3,23 +3,25 @@
 ## Request
 
 Use the `craft.analytics.api` method to request the Google Analytics’ [Core Reporting API](https://developers.google.com/analytics/devguides/reporting/core/v4/) and show reporting data in your templates.
-    
-    {% set response = craft.analytics.api({
-        viewId: 1,
-        startDate: date('-1 year')|date("Y-m-d"),
-        endDate: 'today',
-        metrics: 'ga:sessions',
-        dimensions: 'ga:keyword',
-        orderBys: [
-            {
-                fieldName: 'ga:sessions',
-                orderType: 'VALUE',
-                sortOrder: 'DESCENDING'
-            }
-        ],
-        pageSize: 10,
-        filtersExpression: 'ga:keyword!=(not set);ga:keyword!=(not provided)'
-    }).send() %}
+
+```twig
+{% set response = craft.analytics.api({
+    viewId: 1,
+    startDate: date('-1 year')|date("Y-m-d"),
+    endDate: 'today',
+    metrics: 'ga:sessions',
+    dimensions: 'ga:keyword',
+    orderBys: [
+        {
+            fieldName: 'ga:sessions',
+            orderType: 'VALUE',
+            sortOrder: 'DESCENDING'
+        }
+    ],
+    pageSize: 10,
+    filtersExpression: 'ga:keyword!=(not set);ga:keyword!=(not provided)'
+}).send() %}
+```
 
 ### Options
 
