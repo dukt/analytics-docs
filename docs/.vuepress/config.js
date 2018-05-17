@@ -5,8 +5,8 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: 'Analytics', link: '/'},
-            { text: 'Social', link: 'https://docs.dukt.net/social/v2'},
-            { text: 'Videos', link: 'https://docs.dukt.net/videos/v2'},
+            { text: 'Social', link: 'https://docs.dukt.net/social/v2/'},
+            { text: 'Videos', link: 'https://docs.dukt.net/videos/v2/'},
         ],
         sidebar: {
          '/': [
