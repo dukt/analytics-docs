@@ -25,6 +25,7 @@ module.exports = {
                  title: 'Widgets',
                  collapsable: false,
                  children: [
+                     'ecommerce-widget',
                      'realtime-widget',
                      'report-widget',
                  ]
