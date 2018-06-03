@@ -4,7 +4,7 @@
 
 The Analytics Report field displays statistics base on the URL of the entry the field belongs to. It's worth noting that the entry needs to be saved in order for the chart to start showing data.
 
-<img src="./images/report-field.png" title="Report Field" width="740" />
+<img src="./images/report-field@2x.png" title="Report Field" width="740" />
 
 ## Output
 

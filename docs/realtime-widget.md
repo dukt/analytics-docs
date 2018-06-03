@@ -4,7 +4,7 @@
 
 The Realtime widget shows the currently active users on your website.
 
-<img src="./images/realtime-widget.png" title="Realtime Widget" width="403" />
+<img src="./images/realtime-widget@2x.png" title="Realtime Widget" width="403" />
 
 ## Configuration
 
