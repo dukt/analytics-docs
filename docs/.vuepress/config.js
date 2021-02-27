@@ -4,6 +4,11 @@ module.exports = {
     base: '/docs/analytics/v4/',
     ga: 'UA-1547168-34',
     themeConfig: {
+        docsRepo: 'dukt/analytics-docs',
+        docsDir: 'docs',
+        docsBranch: 'v4',
+        editLinks: true,
+        editLinkText: 'Edit this page on GitHub',
         nav: [
             { text: 'Analytics', link: '/'},
             { text: 'Facebook', link: 'https://dukt.net/docs/facebook/v2/'},
