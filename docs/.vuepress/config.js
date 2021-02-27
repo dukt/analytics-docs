@@ -1,15 +1,15 @@
 module.exports = {
     title: 'Analytics 4 Documentation',
     description: 'Analytics 4 Documentation',
-    base: '/analytics/v4/',
+    base: '/docs/analytics/v4/',
     ga: 'UA-1547168-34',
     themeConfig: {
         nav: [
             { text: 'Analytics', link: '/'},
-            { text: 'Facebook', link: 'https://docs.dukt.net/facebook/v2/'},
-            { text: 'Social', link: 'https://docs.dukt.net/social/v2/'},
-            { text: 'Twitter', link: 'https://docs.dukt.net/twitter/v2/'},
-            { text: 'Videos', link: 'https://docs.dukt.net/videos/v2/'},
+            { text: 'Facebook', link: 'https://dukt.net/docs/facebook/v2/'},
+            { text: 'Social', link: 'https://dukt.net/docs/social/v2/'},
+            { text: 'Twitter', link: 'https://dukt.net/docs/twitter/v2/'},
+            { text: 'Videos', link: 'https://dukt.net/docs/videos/v2/'},
         ],
         sidebar: {
          '/': [
