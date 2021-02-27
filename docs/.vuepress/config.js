@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Analytics 4 Documentation',
-    description: 'Analytics 4 Documentation',
+    title: 'Analytics Documentation',
+    description: 'Analytics Documentation',
     base: '/docs/analytics/v4/',
     ga: 'UA-1547168-34',
     themeConfig: {
@@ -19,7 +19,7 @@ module.exports = {
         sidebar: {
          '/': [
              {
-                 title: 'Getting Started',
+                 title: 'Analytics plugin for Craft CMS',
                  collapsable: false,
                  children: [
                      '',
