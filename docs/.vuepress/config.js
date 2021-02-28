@@ -2,7 +2,7 @@ module.exports = {
     title: 'Analytics Documentation',
     description: 'Analytics Documentation',
     base: '/docs/analytics/v4/',
-    ga: 'UA-1547168-34',
+    ga: 'UA-1547168-20',
     themeConfig: {
         docsRepo: 'dukt/analytics-docs',
         docsDir: 'docs',
