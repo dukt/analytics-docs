@@ -2,7 +2,14 @@ module.exports = {
     title: 'Analytics Documentation',
     description: 'Analytics Documentation',
     base: '/docs/analytics/v4/',
-    ga: 'UA-1547168-20',
+    plugins: [
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'UA-1547168-20'
+            }
+        ]
+    ],
     themeConfig: {
         docsRepo: 'dukt/analytics-docs',
         docsDir: 'docs',
