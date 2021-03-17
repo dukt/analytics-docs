@@ -58,11 +58,11 @@ You should now be ready to connect to your Google Analytics account:
 - Go to your Craft CMS control panel.
 - Navigate to **Settings → Analytics → General Settings** and click ”Connect”.
 
+🎉
+  
 ## What's next?
 
 Now that your Craft CMS website is connected to Google Analytics, you can:
 
 - Go to your dashboard and add some Analytics widgets.
 - Create a [Report](report-field.md) field for your entries.
-
-🎉
