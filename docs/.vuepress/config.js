@@ -16,13 +16,6 @@ module.exports = {
         docsBranch: 'v4',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
-        nav: [
-            { text: 'Analytics', link: '/'},
-            { text: 'Facebook', link: 'https://dukt.net/docs/facebook/v2/'},
-            { text: 'Social', link: 'https://dukt.net/docs/social/v2/'},
-            { text: 'Twitter', link: 'https://dukt.net/docs/twitter/v2/'},
-            { text: 'Videos', link: 'https://dukt.net/docs/videos/v2/'},
-        ],
         sidebar: {
          '/': [
              {
