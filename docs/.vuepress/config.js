@@ -32,6 +32,7 @@ module.exports = {
                      '',
                      'requirements',
                      'installation',
+                     'connect-google-analytics',
                      'configuration',
                  ]
              },
