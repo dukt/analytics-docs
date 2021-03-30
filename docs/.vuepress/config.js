@@ -10,6 +10,7 @@ module.exports = {
             hostname: 'https://dukt.net/docs/analytics/v4/'
         },
     },
+    theme: 'default-prefers-color-scheme',
     themeConfig: {
         docsRepo: 'dukt/analytics-docs',
         docsDir: 'docs',
