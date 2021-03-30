@@ -17,6 +17,7 @@ module.exports = {
         docsBranch: 'v4',
         editLinks: true,
         editLinkText: 'Edit this page on GitHub',
+        lastUpdated: 'Last Updated',
         sidebar: {
          '/': [
              {
