@@ -4,7 +4,7 @@
 
 The Analytics widget allows you to explore your Google Analytics statistics.
 
-<img src="./images/pie-chart@2x.png" title="Pie Chart" width="246" /><img src="./images/geo-chart@2x.png" title="Pie Chart" width="246" />
+<img src="./resources/screenshots/pie-chart@2x.png" title="Pie Chart" width="246" /><img src="./resources/screenshots/geo-chart@2x.png" title="Pie Chart" width="246" />
 
 ## Configuration
 

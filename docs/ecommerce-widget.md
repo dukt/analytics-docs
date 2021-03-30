@@ -4,7 +4,7 @@
 
 The E-commerce widget shows total revenue, transactions, average order and conversion rates data from Google Analytics.
 
-<img src="./images/ecommerce-widget@2x.png" title="E-commerce Widget" width="402" />
+<img src="./resources/screenshots/ecommerce-widget@2x.png" title="E-commerce Widget" width="402" />
 
 ## Configuration
 
