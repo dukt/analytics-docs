@@ -13,15 +13,15 @@
 
 ## 2. Enable the Google Analytics APIs
 
-- In the [Google Developer Console](https://console.developers.google.com/), navigate to **API & Services → Library.**
+- In the [Google Developer Console](https://console.developers.google.com/), navigate to **API & Services → Library.**
 - Search for “analytics” in the API Library.
 - Enable the “Google Analytics API” and “Google Analytics Reporting API”.
 
-## 3. **Configure the OAuth consent screen**
+## 3. Configure the OAuth consent screen
 
 When connecting to your Google Analytics account, your website requests authorizations to access Google Analytics APIs. Google displays a consent screen to the user including a summary of your project and its policies, and the requested scopes of access. The consent screen needs to be configured for the authorization process to work properly.
 
-- In the [Google Developer Console](https://console.developers.google.com/), navigate to **API & Services → OAuth consent screen**.
+- In the [Google Developer Console](https://console.developers.google.com/), navigate to **API & Services → OAuth consent screen**.
 - Select the “User Type” that fits your needs, in this guide, we will choose “Internal”, and click “Create”.
 - Fill the mandatory fields:
     - App name
@@ -34,7 +34,7 @@ When connecting to your Google Analytics account, your website requests authoriz
 ## 4. Create the OAuth client
 
 - Go to your Google Developer Console project.
-- Navigate to **API & Services → Credentials**, click the “Create credentials” button and create a new “OAuth client ID”.
+- Navigate to **API & Services → Credentials**, click the “Create credentials” button and create a new “OAuth client ID”.
 - On the next step, select the application type “Web Application” and choose a name for your web client.
 - In the “Authorized JavaScript origins”, click the “Add URI” button.
 - Copy the authorized javascript origin URL from the Analytics plugin OAuth settings, in your Craft CMS control panel.
@@ -42,7 +42,7 @@ When connecting to your Google Analytics account, your website requests authoriz
 - Copy the authorized redirect URL from the Analytics plugin OAuth settings, in your Craft CMS control panel.
 - Click “Save”.
 
-## 5. **Configure the OAuth client**
+## 5. Configure the OAuth client
 
 Once the OAuth client is created, Google will provide you with a client ID and secret.
 
